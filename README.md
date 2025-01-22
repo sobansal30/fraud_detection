@@ -1,4 +1,3 @@
-# fraud_detection
 For configuration, you follow the following steps:
 
 echo "# fraud_detection" >> README.md 
