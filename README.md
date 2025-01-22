@@ -1,1 +1,18 @@
 # fraud_detection
+For configuration, you follow the following steps:
+
+echo "# fraud_detection" >> README.md 
+
+#This command create a readme file and adds # fraud detection as contents in the file.
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch
+
+git remote add origin https://github.com/sajankedia/fraud_detection.git
+
+git push -u origin master
